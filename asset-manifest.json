@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/PryzmWare-Deploy/static/css/main.e6d1d10c.chunk.css",
-    "main.js": "/PryzmWare-Deploy/static/js/main.2a25053c.chunk.js",
-    "main.js.map": "/PryzmWare-Deploy/static/js/main.2a25053c.chunk.js.map",
-    "runtime-main.js": "/PryzmWare-Deploy/static/js/runtime-main.ca229bc4.js",
-    "runtime-main.js.map": "/PryzmWare-Deploy/static/js/runtime-main.ca229bc4.js.map",
-    "static/js/2.cc3405ce.chunk.js": "/PryzmWare-Deploy/static/js/2.cc3405ce.chunk.js",
-    "static/js/2.cc3405ce.chunk.js.map": "/PryzmWare-Deploy/static/js/2.cc3405ce.chunk.js.map",
-    "index.html": "/PryzmWare-Deploy/index.html",
-    "static/css/main.e6d1d10c.chunk.css.map": "/PryzmWare-Deploy/static/css/main.e6d1d10c.chunk.css.map",
-    "static/js/2.cc3405ce.chunk.js.LICENSE.txt": "/PryzmWare-Deploy/static/js/2.cc3405ce.chunk.js.LICENSE.txt",
-    "static/media/file.svg": "/PryzmWare-Deploy/static/media/file.39a2051e.svg",
-    "static/media/invest.svg": "/PryzmWare-Deploy/static/media/invest.3fb011b6.svg",
-    "static/media/safe.29d2edbb.svg": "/PryzmWare-Deploy/static/media/safe.29d2edbb.svg",
-    "static/media/svg-1.svg": "/PryzmWare-Deploy/static/media/svg-1.7adad6ca.svg",
-    "static/media/video.80c78ef2.mp4": "/PryzmWare-Deploy/static/media/video.80c78ef2.mp4"
+    "main.css": "/static/css/main.e6d1d10c.chunk.css",
+    "main.js": "/static/js/main.83c79f55.chunk.js",
+    "main.js.map": "/static/js/main.83c79f55.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3a5dd6d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3a5dd6d3.js.map",
+    "static/js/2.ffa6f6c9.chunk.js": "/static/js/2.ffa6f6c9.chunk.js",
+    "static/js/2.ffa6f6c9.chunk.js.map": "/static/js/2.ffa6f6c9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e6d1d10c.chunk.css.map": "/static/css/main.e6d1d10c.chunk.css.map",
+    "static/js/2.ffa6f6c9.chunk.js.LICENSE.txt": "/static/js/2.ffa6f6c9.chunk.js.LICENSE.txt",
+    "static/media/file.svg": "/static/media/file.39a2051e.svg",
+    "static/media/invest.svg": "/static/media/invest.3fb011b6.svg",
+    "static/media/safe.29d2edbb.svg": "/static/media/safe.29d2edbb.svg",
+    "static/media/svg-1.svg": "/static/media/svg-1.7adad6ca.svg",
+    "static/media/video.80c78ef2.mp4": "/static/media/video.80c78ef2.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca229bc4.js",
-    "static/js/2.cc3405ce.chunk.js",
+    "static/js/runtime-main.3a5dd6d3.js",
+    "static/js/2.ffa6f6c9.chunk.js",
     "static/css/main.e6d1d10c.chunk.css",
-    "static/js/main.2a25053c.chunk.js"
+    "static/js/main.83c79f55.chunk.js"
   ]
 }
