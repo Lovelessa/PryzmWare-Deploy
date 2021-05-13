@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Lovelessa/PryzmWare-Deploy/static/css/main.e6d1d10c.chunk.css",
+    "main.js": "/Lovelessa/PryzmWare-Deploy/static/js/main.cac58944.chunk.js",
+    "main.js.map": "/Lovelessa/PryzmWare-Deploy/static/js/main.cac58944.chunk.js.map",
+    "runtime-main.js": "/Lovelessa/PryzmWare-Deploy/static/js/runtime-main.ebefd47b.js",
+    "runtime-main.js.map": "/Lovelessa/PryzmWare-Deploy/static/js/runtime-main.ebefd47b.js.map",
+    "static/js/2.319b05cb.chunk.js": "/Lovelessa/PryzmWare-Deploy/static/js/2.319b05cb.chunk.js",
+    "static/js/2.319b05cb.chunk.js.map": "/Lovelessa/PryzmWare-Deploy/static/js/2.319b05cb.chunk.js.map",
+    "index.html": "/Lovelessa/PryzmWare-Deploy/index.html",
+    "static/css/main.e6d1d10c.chunk.css.map": "/Lovelessa/PryzmWare-Deploy/static/css/main.e6d1d10c.chunk.css.map",
+    "static/js/2.319b05cb.chunk.js.LICENSE.txt": "/Lovelessa/PryzmWare-Deploy/static/js/2.319b05cb.chunk.js.LICENSE.txt",
+    "static/media/file.svg": "/Lovelessa/PryzmWare-Deploy/static/media/file.39a2051e.svg",
+    "static/media/invest.svg": "/Lovelessa/PryzmWare-Deploy/static/media/invest.3fb011b6.svg",
+    "static/media/safe.29d2edbb.svg": "/Lovelessa/PryzmWare-Deploy/static/media/safe.29d2edbb.svg",
+    "static/media/svg-1.svg": "/Lovelessa/PryzmWare-Deploy/static/media/svg-1.7adad6ca.svg",
+    "static/media/video.80c78ef2.mp4": "/Lovelessa/PryzmWare-Deploy/static/media/video.80c78ef2.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebefd47b.js",
+    "static/js/2.319b05cb.chunk.js",
+    "static/css/main.e6d1d10c.chunk.css",
+    "static/js/main.cac58944.chunk.js"
+  ]
+}
